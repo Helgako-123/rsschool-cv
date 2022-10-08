@@ -4,8 +4,8 @@
 
 ## Contact information
 
-**Phone:**+380501876308
-**Email:** helgako@gmail.com
+**Phone:**+380501876308  
+**Email:** helgako@gmail.com  
 **Github:**[Helgako-123](https://github.com/Helgako-123)
 
 ---
