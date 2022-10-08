@@ -61,5 +61,5 @@ I have no working experience in IT field yet, but I hope in half of a year I wil
 
 1. Ukrainian - native
 2. Russian - fluent
-3. English - advanced (according to [EF SET online test](https://www.efset.org/quick-check/)
+3. English - advanced (according to [EF SET online test](https://www.efset.org/quick-check/))
 4. Polish - basic
