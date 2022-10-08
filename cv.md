@@ -22,7 +22,7 @@ Currently, I am just in the process of learning how to code.  Even though I have
 2. JavaScript basics
 3. Git, GitHub
 4. Adobe Photoshop
-5. Editors:Sublime, VSCode
+5. Editors: Sublime, VSCode
 
 ---
 
