@@ -1,6 +1,5 @@
 # Olga Kosenko
 ## Junior Developer
-=============
 
 ## Contact Information
 - **E-mail:** Olga123@gmail.com
@@ -16,17 +15,18 @@ I have an understanding of HTML5, CSS3, and JavaScript.
 Familiar with popular frameworks like React.js.
 
 ## Code examples
-> <!DOCTYPE html>
-><html>
-><body>
->
-><h1>My First Heading</h1>
->
-><p>My first paragraph.</p>
->
-></body>
-></html>
+```
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
 
 ## Experience
 I have worked on study projects based on HTML, CSS and JS technologies. These projects allowed me to develop my technical skills and problem-solving abilities to create user-friendly interfaces.
