@@ -1,21 +1,21 @@
 # Olga Kosenko
-Junior Developer
+## Junior Developer
 =============
 
 ## Contact Information
-- ** E-mail:** Olga123@gmail.com
+- **E-mail:** Olga123@gmail.com
 - **Telephone number:** 123-456-789
 - **Telegram:** @Olga123
 
-##Summary
+## Summary
 I am committed to continuous learning and staying updated with the latest industry trends. I am currently exploring _HTML_, _CSS_, _JavaScript_ to enhance my skill set.
 
 
-##Skills
+## Skills
 I have an understanding of HTML5, CSS3, and JavaScript.
 Familiar with popular frameworks like React.js.
 
-##Code examples
+## Code examples
 > <!DOCTYPE html>
 ><html>
 ><body>
@@ -28,14 +28,14 @@ Familiar with popular frameworks like React.js.
 ></html>
 
 
-##Experience
+## Experience
 I have worked on study projects based on HTML, CSS and JS technologies. These projects allowed me to develop my technical skills and problem-solving abilities to create user-friendly interfaces.
 
-##Education
+## Education
 - Self-study
 - RS school webinars
 
 
-##English
+## English
 My level of English is ***C1*** according to the British Council online test.
 
