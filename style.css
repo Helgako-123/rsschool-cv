@@ -138,7 +138,8 @@
     height: 20px;
     padding: 30px 10px;
     background-color: #D0B8A8;
-    color: #525E75; 
+    color: #525E75;
+    justify-content: space-between; 
   }
   
   .my_account .date .rs_school {
