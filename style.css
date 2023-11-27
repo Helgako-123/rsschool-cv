@@ -1,0 +1,148 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 100;
+  }
+  
+  header{
+    justify-content: stretch;
+    font-size: 20px;
+    color: 7D6E83;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    height: 250px;
+  } 
+  
+  main {
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+      color: #525E75;
+      background-color: #F8EDE3;
+  }
+  
+  header, nav{
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+      color: #525E75;
+      background-color: #D0B8A8;
+    }
+  
+  h1, #photo {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  h1 {
+    font: 2em  7D6E83;
+    margin:2px 1px;
+    text-align: center;
+    padding-top: 80px;
+    }
+  
+  #photo {
+    width: 360px;
+    height: 245px;
+    border-radius: 50px;
+    margin:2px 1px;
+  }
+  
+  ul.nav {
+    display: flex;
+    justify-content: stretch;
+  }
+  
+  li {
+    list-style-type: none;
+    flex:1;
+    margin:2px 1px;
+  }
+  
+  .first_block{
+    display: grid;
+    height: 400px;
+    align-content: center;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    height: 250px;
+  }
+  
+  .contact_section .about_section{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .about_section {
+    margin-left: 120px;
+  }
+  
+  .second_block {
+    display: grid;
+    height: 400px;
+    align-content: center;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    height: 250px;
+    background-color: #DFD3C3;
+  }
+  
+  .skills .education {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  h2 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #7D6E83;
+  }
+  
+  h2.example {
+    text: center;
+  }
+  
+  a {
+    text-decoration: none;
+    padding: 10px;
+    font-family: Verdana;
+  }
+  
+  a:link {
+    color: #7D6E83;
+  }
+  
+  a:hover {
+    font-weight: bold;
+  }
+  
+  .code {
+   background-color: #DFD3C3;
+   border: solid #D0B8A8;
+  }
+  
+  .example {
+    padding: 15px 50px;
+  }
+  
+  footer { 
+    display: flex;
+    justify-content: stretch;
+    margin: auto;
+    width: 60%;
+    height: 20px;
+    padding: 30px 10px;
+    background-color: #D0B8A8;
+    color: #525E75; 
+  }
+  
+  .my_account .date .rs_school {
+    flex: 1;
+    margin: 30px;
+    
+  }
