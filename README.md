@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Helgako-123/rsschool-cv/blob/rsschool-cv-html/index.html
+https://helgako-123.github.io/rsschool-cv/
